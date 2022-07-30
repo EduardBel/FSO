@@ -5,4 +5,4 @@ Labs for the Operating Systems Fundamentals subject.
 
 * **Eduard Bel Ribes** - [EduardBel](https://github.com/EduardBel)
 * **Cristina Izquierdo** - [crizloz](https://github.com/crizloz)
-* **Toni Torres** - []()
+* **Toni Torres** - [tonotorres](https://github.com/tonotorres)
