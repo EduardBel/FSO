@@ -1,4 +1,4 @@
-# FSO
+# Operating Systems Fundamentals
 Labs for the Operating Systems Fundamentals subject.
 
 ## Authors
